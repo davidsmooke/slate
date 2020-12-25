@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <em>how</em> does slatejs work?
+</p>
+<br/>
+
+<p align="center">
   A <em>completely</em> customizable framework <br/>
   for building rich text editors.
 </p>
